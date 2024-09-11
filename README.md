@@ -1,7 +1,6 @@
 # kaggle-prediction-santander-customer-transaction
 COMPETITION WEBSITE: https://www.kaggle.com/c/santander-customer-transaction-prediction
 
-Introduction
 In this challenge, Santander invites Kagglers to help them identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data they have available to solve this problem.
 
 The data is anonimyzed, each row containing 200 numerical values identified just with a number.
